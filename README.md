@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohanraj
 - 👀 I’m interested in Technology and web developmet
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning react & react-native
 - 💞️ I’m looking to collaborate on open source porject
 - 📫 You can reach me on twitter
 
