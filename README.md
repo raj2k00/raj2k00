@@ -40,7 +40,7 @@ Hi, I'm [Mohanraj G](https://raj2k00.netlify.app/), A passionate self-taught ful
 </a>
 </code> -->
 
-[![Mohanraj's status](https://github-readme-stats.vercel.app/api?username=raj2k00&layout=compact&show_icons=true&hide=issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/raj2k00)
+[![Mohanraj's status](https://github-readme-stats.vercel.app/api?username=raj2k00&layout=compact&show_icons=true&hide=issues)](https://github.com/raj2k00)
 
 [![Mohanraj's top langss](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2k00&layout=compact)](https://github.com/raj2k00)
 
