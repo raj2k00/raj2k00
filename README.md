@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=raj2k00&left_color=RebeccaPurple&right_color=coral)
 
-Hi, I'm [Mohanraj G](https://raj2k00.netlify.app/), A passionate self-taught full stack web developer from India.I love Science and Technology. Currently, learning Web3. My passion for software lies with dreaming up ideas and making them come true through elegant and beautiful interfaces with modern tools.
+Hi, I'm [Mohanraj G](https://raj2k00.netlify.app/), Hi, I'm a Full Stack web developer with more than a year of industry experience, currently working as a Software developer in LeagueX. I'm an enthusiastic learner, always looking forward to improving my skills in every possible way 😀
 
 **Languages and tools:**  
 
