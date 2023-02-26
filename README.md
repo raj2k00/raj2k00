@@ -11,37 +11,6 @@
 
 Hi, I'm [Mohanraj G](https://raj2k00.netlify.app/), Hi, I'm a Full Stack web developer with more than a year of industry experience, currently working as a Software developer in LeagueX. I'm an enthusiastic learner, always looking forward to improving my skills in every possible way 😀
 
-**Languages and tools:**  
-
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30; width=30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-#### 📈 My github stats
-
-<!-- <code>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2k00&layout=compact&show_icons=true&hide=issues" />
-</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2k00&layout=compact&show_icons=true&hide=issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj2k00&layout=compact" />
-</a>
-</code> -->
-
-[![Mohanraj's status](https://github-readme-stats.vercel.app/api?username=raj2k00&layout=compact&show_icons=true&hide=issues)](https://github.com/raj2k00)
-
 [![Mohanraj's top langss](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2k00&layout=compact)](https://github.com/raj2k00)
 
 <hr/>
