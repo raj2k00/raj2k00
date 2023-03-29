@@ -11,11 +11,11 @@
 
 Hi, I'm [Mohanraj G](https://raj2k00.netlify.app/), Hi, I'm a Full Stack web developer with more than a year of industry experience, currently working as a Software developer in LeagueX. I'm an enthusiastic learner, always looking forward to improving my skills in every possible way 😀
 
-[![Mohanraj's top langss](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2k00&layout=compact)](https://github.com/raj2k00)
+<!-- [![Mohanraj's top langss](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2k00&layout=compact)](https://github.com/raj2k00) -->
 
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raj2k00)](https://git.io/streak-stats)
+[![Mohanraj's GitHub Streak](https://streak-stats.demolab.com/?user=raj2k00)](https://git.io/streak-stats)
 
 **My code wakatime:**
 
