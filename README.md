@@ -7,7 +7,7 @@
   <img align="left" alt="Mohanraj G" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=raj2k00&left_color=RebeccaPurple&right_color=coral)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=raj2k00&left_color=RebeccaPurple&right_color=coral) -->
 
 Hi, I'm [Mohanraj G](https://raj2k00.netlify.app/), Hi, I'm a Full Stack web developer with more than a year of industry experience, currently working as a Software developer in LeagueX. I'm an enthusiastic learner, always looking forward to improving my skills in every possible way 😀
 
