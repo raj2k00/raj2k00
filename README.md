@@ -1,11 +1,11 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/Mohanraj2k00">
+<!-- <a href="https://twitter.com/Mohanraj2k00">
   <img align="left" alt="Mohanraj G | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohanraj-g-15a85622a/">
   <img align="left" alt="Mohanraj G" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=raj2k00&left_color=RebeccaPurple&right_color=coral) -->
 
