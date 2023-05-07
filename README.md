@@ -17,6 +17,6 @@ Hi, I'm [Mohanraj G](https://raj2k00.netlify.app/), Hi, I'm a Full Stack web dev
 
 [![Mohanraj's GitHub Streak](https://streak-stats.demolab.com/?user=raj2k00)](https://git.io/streak-stats)
 
-**My code wakatime:**
+<!-- **My code wakatime:**
 
-[![Mohanraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raj2k00)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohanraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raj2k00)](https://github.com/anuraghazra/github-readme-stats) -->
