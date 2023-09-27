@@ -9,7 +9,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=raj2k00&left_color=RebeccaPurple&right_color=coral) -->
 
-Hi, I'm [Mohanraj G][(https://raj2k00.vercel.app/](https://raj2k00.vercel.app/)), Hi, I'm a Full Stack web developer with more than a year of industry experience, currently working as a Software developer at Gamezop. I'm an enthusiastic learner, always looking forward to improving my skills in every possible way 😀
+Hi, I'm [Mohanraj G](https://raj2k00.vercel.app/), Hi, I'm a Full Stack web developer with more than a year of industry experience, currently working as a Software developer at Gamezop. I'm an enthusiastic learner, always looking forward to improving my skills in every possible way 😀
 
 <!-- [![Mohanraj's top langss](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2k00&layout=compact)](https://github.com/raj2k00) -->
 
